@@ -1,3 +1,6 @@
+AllCops:
+  Exclude:
+    - "vendor/**/*"
 Metrics/BlockLength:
   Exclude:
     - "**/*.gemspec"

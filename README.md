@@ -51,7 +51,7 @@ following options:
 
 Current Version (stable)
 
-    https://raw.githubusercontent.com/bkuhlmann/code_quality/v0.1.0/configurations/<pick a file>
+    https://raw.githubusercontent.com/bkuhlmann/code_quality/v0.2.0/configurations/<pick a file>
 
 Master Version (unstable)
 
@@ -61,7 +61,7 @@ Here is a more concrete example using Rubocop. In your local `.rubocop.yml`, rep
 with the following:
 
     inherit_from:
-      - https://raw.githubusercontent.com/bkuhlmann/code_quality/v0.1.0/configurations/.rubocop.yml
+      - https://raw.githubusercontent.com/bkuhlmann/code_quality/v0.2.0/configurations/.rubocop.yml
 
 Now you are configured to import from a global configuration. For further details, check out the
 [Rubocop Documentation](https://rubocop.readthedocs.io/en/latest/configuration /#inheriting-
@@ -71,9 +71,9 @@ configuration-from-a-remote-url).
 
 Read [Semantic Versioning](http://semver.org) for details. Briefly, it means:
 
-- Patch (x.y.Z) - Incremented for small, backwards compatible, bug fixes.
-- Minor (x.Y.z) - Incremented for new, backwards compatible, public API enhancements/fixes.
 - Major (X.y.z) - Incremented for any backwards incompatible public API changes.
+- Minor (x.Y.z) - Incremented for new, backwards compatible, public API enhancements/fixes.
+- Patch (x.y.Z) - Incremented for small, backwards compatible, bug fixes.
 
 # Code of Conduct
 

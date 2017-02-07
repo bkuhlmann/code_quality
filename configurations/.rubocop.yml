@@ -11,16 +11,39 @@ Metrics/ParameterLists:
   Max: 3
 Style/AndOr:
   EnforcedStyle: conditionals
+Style/AutoResourceCleanup:
+  Enabled: true
 Style/CaseIndentation:
   IndentOneStep: true
+Style/CollectionMethods:
+  Enabled: true
 Style/Documentation:
   Enabled: false
 Style/EmptyMethod:
   EnforcedStyle: expanded
+Style/FirstArrayElementLineBreak:
+  Enabled: true
+Style/FirstHashElementLineBreak:
+  Enabled: true
+Style/FirstMethodArgumentLineBreak:
+  Enabled: true
+Style/FirstMethodParameterLineBreak:
+  Enabled: true
+Style/ImplicitRuntimeError:
+  Enabled: true
+Style/MethodCalledOnDoEndBlock:
+  Enabled: true
 Style/MethodDefParentheses:
   EnforcedStyle: require_no_parentheses
+Style/MissingElse:
+  Enabled: true
+Style/MultilineAssignmentLayout:
+  Enabled: true
+  EnforcedStyle: same_line
 Style/NumericLiterals:
   Enabled: false
+Style/OptionHash:
+  Enabled: true
 Style/PercentLiteralDelimiters:
   PreferredDelimiters:
     "%w": "[]"
@@ -30,6 +53,8 @@ Style/PercentLiteralDelimiters:
     "%r": "()"
 Style/SafeNavigation:
   Enabled: false
+Style/Send:
+  Enabled: true
 Style/SignalException:
   EnforcedStyle: semantic
 Style/SingleLineBlockParams:
@@ -40,5 +65,9 @@ Style/StringLiterals:
   EnforcedStyle: double_quotes
 Style/StringLiteralsInInterpolation:
   EnforcedStyle: double_quotes
+Style/StringMethods:
+  Enabled: true
+Style/SymbolArray:
+  Enabled: true
 Style/VariableNumber:
   EnforcedStyle: snake_case

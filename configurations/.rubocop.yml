@@ -40,6 +40,7 @@ Style/MethodDefParentheses:
   EnforcedStyle: require_no_parentheses
 Style/MissingElse:
   Enabled: true
+  EnforcedStyle: case
 Style/MultilineAssignmentLayout:
   Enabled: true
   EnforcedStyle: same_line

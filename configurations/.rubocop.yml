@@ -57,8 +57,6 @@ Style/Send:
   Enabled: true
 Style/SignalException:
   EnforcedStyle: semantic
-Style/SingleLineBlockParams:
-  Enabled: false
 Style/SpaceInsideHashLiteralBraces:
   EnforcedStyle: no_space
 Style/StringLiterals:

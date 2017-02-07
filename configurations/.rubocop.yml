@@ -20,6 +20,8 @@ Style/CollectionMethods:
   Enabled: true
 Style/Documentation:
   Enabled: false
+Style/EmptyLiteral:
+  Enabled: false
 Style/EmptyMethod:
   EnforcedStyle: expanded
 Style/FirstArrayElementLineBreak:

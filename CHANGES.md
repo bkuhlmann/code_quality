@@ -1,3 +1,7 @@
+# v0.3.0 (2017-02-11)
+
+- Updated Rubocop Style/MissingElse to enforce case statements only.
+
 # v0.2.0 (2017-02-06)
 
 - Added Rubocop AllCops configuration.

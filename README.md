@@ -51,7 +51,7 @@ following options:
 
 Current Version (stable)
 
-    https://raw.githubusercontent.com/bkuhlmann/code_quality/v0.2.0/configurations/<pick a file>
+    https://raw.githubusercontent.com/bkuhlmann/code_quality/v0.3.0/configurations/<pick a file>
 
 Master Version (unstable)
 
@@ -61,7 +61,7 @@ Here is a more concrete example using Rubocop. In your local `.rubocop.yml`, rep
 with the following:
 
     inherit_from:
-      - https://raw.githubusercontent.com/bkuhlmann/code_quality/v0.2.0/configurations/.rubocop.yml
+      - https://raw.githubusercontent.com/bkuhlmann/code_quality/v0.3.0/configurations/.rubocop.yml
 
 Now you are configured to import from a global configuration. For further details, check out the
 [Rubocop Documentation](https://rubocop.readthedocs.io/en/latest/configuration /#inheriting-

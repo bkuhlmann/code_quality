@@ -1,3 +1,9 @@
+# v1.0.0 (2017-04-29)
+
+- Added Rubocop Rails configuration.
+- Added all cop exclusions for Node modules.
+- Updated location of Rubocop configurations.
+
 # v0.3.0 (2017-02-11)
 
 - Updated Rubocop Style/MissingElse to enforce case statements only.

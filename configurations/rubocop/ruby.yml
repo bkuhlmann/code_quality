@@ -3,6 +3,21 @@ AllCops:
     - "db/schema.rb"
     - "node_modules/**/*"
     - "vendor/**/*"
+Layout/CaseIndentation:
+  IndentOneStep: true
+Layout/FirstArrayElementLineBreak:
+  Enabled: true
+Layout/FirstHashElementLineBreak:
+  Enabled: true
+Layout/FirstMethodArgumentLineBreak:
+  Enabled: true
+Layout/FirstMethodParameterLineBreak:
+  Enabled: true
+Layout/MultilineAssignmentLayout:
+  Enabled: true
+  EnforcedStyle: same_line
+Layout/SpaceInsideHashLiteralBraces:
+  EnforcedStyle: no_space
 Metrics/BlockLength:
   Exclude:
     - "**/*.gemspec"
@@ -15,8 +30,6 @@ Style/AndOr:
   EnforcedStyle: conditionals
 Style/AutoResourceCleanup:
   Enabled: true
-Style/CaseIndentation:
-  IndentOneStep: true
 Style/CollectionMethods:
   Enabled: true
 Style/Documentation:
@@ -25,14 +38,6 @@ Style/EmptyLiteral:
   Enabled: false
 Style/EmptyMethod:
   EnforcedStyle: expanded
-Style/FirstArrayElementLineBreak:
-  Enabled: true
-Style/FirstHashElementLineBreak:
-  Enabled: true
-Style/FirstMethodArgumentLineBreak:
-  Enabled: true
-Style/FirstMethodParameterLineBreak:
-  Enabled: true
 Style/ImplicitRuntimeError:
   Enabled: true
 Style/MethodCalledOnDoEndBlock:
@@ -42,9 +47,6 @@ Style/MethodDefParentheses:
 Style/MissingElse:
   Enabled: true
   EnforcedStyle: case
-Style/MultilineAssignmentLayout:
-  Enabled: true
-  EnforcedStyle: same_line
 Style/NumericLiterals:
   Enabled: false
 Style/OptionHash:
@@ -62,8 +64,6 @@ Style/Send:
   Enabled: true
 Style/SignalException:
   EnforcedStyle: semantic
-Style/SpaceInsideHashLiteralBraces:
-  EnforcedStyle: no_space
 Style/StringLiterals:
   EnforcedStyle: double_quotes
 Style/StringLiteralsInInterpolation:

@@ -1,3 +1,7 @@
+# v1.1.0 (2017-05-27)
+
+- Refactored previously namespaced Style cops as Layout cops.
+
 # v1.0.0 (2017-04-29)
 
 - Added Rubocop Rails configuration.

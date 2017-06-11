@@ -2,6 +2,7 @@ AllCops:
   Exclude:
     - "db/schema.rb"
     - "node_modules/**/*"
+    - "tmp/**/*"
     - "vendor/**/*"
 Layout/CaseIndentation:
   IndentOneStep: true

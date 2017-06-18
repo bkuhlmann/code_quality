@@ -1,5 +1,7 @@
 # Code Quality
 
+[![Circle CI Status](https://circleci.com/gh/bkuhlmann/code_quality.svg?style=svg)](https://circleci.com/gh/bkuhlmann/code_quality)
+
 These are global configurations for ensuring high quality *and* consistent software development
 practices. Feel free to link to this project in order to apply these configurations to your
 projects. You may also fork this project to customize further for your specific needs.

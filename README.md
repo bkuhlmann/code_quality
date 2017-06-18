@@ -8,33 +8,33 @@ projects. You may also fork this project to customize further for your specific 
 
 <!-- Tocer[start]: Auto-generated, don't remove. -->
 
-# Table of Contents
+## Table of Contents
 
-- [Features](#features)
-- [Requirements](#requirements)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Versioning](#versioning)
-- [Code of Conduct](#code-of-conduct)
-- [Contributions](#contributions)
-- [License](#license)
-- [History](#history)
-- [Credits](#credits)
+  - [Features](#features)
+  - [Requirements](#requirements)
+  - [Setup](#setup)
+  - [Usage](#usage)
+  - [Versioning](#versioning)
+  - [Code of Conduct](#code-of-conduct)
+  - [Contributions](#contributions)
+  - [License](#license)
+  - [History](#history)
+  - [Credits](#credits)
 
 <!-- Tocer[finish]: Auto-generated, don't remove. -->
 
-# Features
+## Features
 
 - Provides global configurations for tools that support URL imports.
 - Provides global configurations for the following tools:
   - [Rubocop](https://github.com/bbatsov/rubocop)
 
-# Requirements
+## Requirements
 
 - Familiarity with [Rubocop](https://github.com/bbatsov/rubocop).
 - Rubocop 0.49.0 or higher.
 
-# Setup
+## Setup
 
 No setup is required other than what is mentioned in the *Requirements* section. If you would like
 to use the project, locally, you can do so by opening a terminal window and executing the following
@@ -45,7 +45,7 @@ commands:
 
 Edit any of the `configurations/*` files as you see fit.
 
-# Usage
+## Usage
 
 This project is designed to be linked to your own projects. This can be done via one of the
 following options:
@@ -69,7 +69,7 @@ Now you are configured to import from a global configuration. For further detail
 [Rubocop Documentation](https://rubocop.readthedocs.io/en/latest/configuration /#inheriting-
 configuration-from-a-remote-url).
 
-# Versioning
+## Versioning
 
 Read [Semantic Versioning](http://semver.org) for details. Briefly, it means:
 
@@ -77,26 +77,26 @@ Read [Semantic Versioning](http://semver.org) for details. Briefly, it means:
 - Minor (x.Y.z) - Incremented for new, backwards compatible, public API enhancements/fixes.
 - Patch (x.y.Z) - Incremented for small, backwards compatible, bug fixes.
 
-# Code of Conduct
+## Code of Conduct
 
 Please note that this project is released with a [CODE OF CONDUCT](CODE_OF_CONDUCT.md). By
 participating in this project you agree to abide by its terms.
 
-# Contributions
+## Contributions
 
 Read [CONTRIBUTING](CONTRIBUTING.md) for details.
 
-# License
+## License
 
 Copyright (c) 2017 [Alchemists](https://www.alchemists.io).
 Read [LICENSE](LICENSE.md) for details.
 
-# History
+## History
 
 Read [CHANGES](CHANGES.md) for details.
 Built with [Gemsmith](https://github.com/bkuhlmann/gemsmith).
 
-# Credits
+## Credits
 
 Developed by [Brooke Kuhlmann](https://www.alchemists.io) at
 [Alchemists](https://www.alchemists.io).

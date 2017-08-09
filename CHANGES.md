@@ -1,3 +1,14 @@
+# v1.2.0 (2017-08-09)
+
+- Added Git Cop support.
+- Added `tmp` folder to Rubocop Ruby exclude list.
+- Updated CONTRIBUTING documentation.
+- Updated GitHub templates.
+- Updated README headers.
+- Updated gem dependencies.
+- Updated to Git Cop 1.5.0.
+- Removed Rails/SaveBang cop.
+
 # v1.1.0 (2017-05-27)
 
 - Refactored previously namespaced Style cops as Layout cops.

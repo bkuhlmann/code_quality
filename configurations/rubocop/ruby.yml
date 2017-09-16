@@ -27,6 +27,8 @@ Metrics/LineLength:
   Max: 100
 Metrics/ParameterLists:
   Max: 3
+Naming/VariableNumber:
+  EnforcedStyle: snake_case
 Style/AndOr:
   EnforcedStyle: conditionals
 Style/AutoResourceCleanup:
@@ -73,5 +75,3 @@ Style/StringMethods:
   Enabled: true
 Style/SymbolArray:
   Enabled: true
-Style/VariableNumber:
-  EnforcedStyle: snake_case

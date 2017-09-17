@@ -1,3 +1,10 @@
+# v1.3.0 (2017-09-16)
+
+- Updated gem dependencies.
+- Updated to Git Cop 1.6.0.
+- Updated to Ruby 2.4.2.
+- Refactored VariableNumber cop namespace.
+
 # v1.2.0 (2017-08-09)
 
 - Added Git Cop support.

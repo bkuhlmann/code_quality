@@ -1,4 +1,5 @@
 AllCops:
+  DisplayCopNames: true
   Exclude:
     - "db/schema.rb"
     - "node_modules/**/*"

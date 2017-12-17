@@ -42,6 +42,8 @@ Style/EmptyLiteral:
   Enabled: false
 Style/EmptyMethod:
   EnforcedStyle: expanded
+Style/FormatStringToken:
+  EnforcedStyle: template
 Style/ImplicitRuntimeError:
   Enabled: true
 Style/MethodCalledOnDoEndBlock:

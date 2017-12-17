@@ -1,3 +1,16 @@
+# v1.4.0 (2017-12-17)
+
+- Added Gemfile.lock to .gitignore.
+- Added Rubocop Style/FormatStringToken cop.
+- Added Style/ReturnNil cop.
+- Updated Gemfile.lock file.
+- Updated Ruby configuration to display cop names.
+- Updated to Bundler 1.16.0.
+- Updated to Git Cop 1.7.0.
+- Updated to Rake 12.3.0.
+- Updated to Rubocop 0.51.0.
+- Updated to Ruby 2.4.3.
+
 # v1.3.0 (2017-09-16)
 
 - Updated gem dependencies.

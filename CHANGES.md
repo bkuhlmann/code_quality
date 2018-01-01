@@ -1,3 +1,8 @@
+# v2.0.0 (2018-01-01)
+
+- Updated to Apache 2.0 license.
+- Updated to Ruby 2.5.0.
+
 # v1.4.0 (2017-12-17)
 
 - Added Gemfile.lock to .gitignore.

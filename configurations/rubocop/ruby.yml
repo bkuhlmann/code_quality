@@ -52,7 +52,6 @@ Style/MethodDefParentheses:
   EnforcedStyle: require_no_parentheses
 Style/MissingElse:
   Enabled: true
-  EnforcedStyle: case
 Style/NumericLiterals:
   Enabled: false
 Style/OptionHash:

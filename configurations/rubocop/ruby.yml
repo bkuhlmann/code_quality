@@ -30,6 +30,11 @@ Metrics/ParameterLists:
   Max: 3
 Naming/VariableNumber:
   EnforcedStyle: snake_case
+Naming/UncommunicativeMethodParamName:
+  AllowedNames:
+    - "id"
+    - "io"
+    - "to"
 Style/AndOr:
   EnforcedStyle: conditionals
 Style/AutoResourceCleanup:

@@ -1,3 +1,10 @@
+# v2.1.0 (2018-03-10)
+
+- Added Naming/UncommunicativeMethodParamName configuration.
+- Updated README license information.
+- Updated to Circle CI 2.0.0 configuration.
+- Removed Style/MissingElse enforced style for only case statements.
+
 # v2.0.0 (2018-01-01)
 
 - Updated to Apache 2.0 license.

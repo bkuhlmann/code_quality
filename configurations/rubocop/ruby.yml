@@ -31,10 +31,7 @@ Metrics/ParameterLists:
 Naming/VariableNumber:
   EnforcedStyle: snake_case
 Naming/UncommunicativeMethodParamName:
-  AllowedNames:
-    - "id"
-    - "io"
-    - "to"
+  AllowNamesEndingInNumbers: false
 Style/AndOr:
   EnforcedStyle: conditionals
 Style/AutoResourceCleanup:

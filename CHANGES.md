@@ -1,3 +1,9 @@
+# v2.2.0 (2018-04-01)
+
+- Updated Naming/UncommunicativeMethodParamName configuration.
+- Updated to Git Cop 2.2.0.
+- Updated to Ruby 2.5.1.
+
 # v2.1.0 (2018-03-10)
 
 - Added Naming/UncommunicativeMethodParamName configuration.

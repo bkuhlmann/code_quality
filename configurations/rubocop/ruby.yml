@@ -7,6 +7,26 @@ AllCops:
     - "vendor/**/*"
 Layout/CaseIndentation:
   IndentOneStep: true
+Layout/ClassStructure:
+  Enabled: true
+  Categories:
+    module_inclusion:
+      - extend
+      - include
+      - prepend
+    associations:
+      - belongs_to
+      - has_one
+      - has_many
+  ExpectedOrder:
+    - module_inclusion
+    - constants
+    - associations
+    - public_class_methods
+    - initializer
+    - public_methods
+    - protected_methods
+    - private_methods
 Layout/FirstArrayElementLineBreak:
   Enabled: true
 Layout/FirstHashElementLineBreak:

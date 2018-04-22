@@ -1,3 +1,8 @@
+# 2.3.0 (2018-04-22)
+
+- Added Layout/ClassStructure cop.
+- Updated project changes to use semantic versions.
+
 # 2.2.0 (2018-04-01)
 
 - Updated Naming/UncommunicativeMethodParamName configuration.

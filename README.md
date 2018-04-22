@@ -6,7 +6,7 @@ These are global configurations for ensuring high quality *and* consistent softw
 practices. Feel free to link to this project in order to apply these configurations to your
 projects. You may also fork this project to customize further for your specific needs.
 
-*NOTE: This project only supports tools which can import configurations via a URL.*
+*This project only supports tools which can import configurations via a URL.*
 
 <!-- Tocer[start]: Auto-generated, don't remove. -->
 
@@ -34,7 +34,7 @@ projects. You may also fork this project to customize further for your specific 
 ## Requirements
 
 - Familiarity with [Rubocop](https://github.com/bbatsov/rubocop).
-- Rubocop 0.54.0 or higher.
+- Rubocop 0.55.0 or higher.
 
 ## Setup
 
@@ -54,18 +54,18 @@ following options:
 
 Current Version (stable)
 
-    https://raw.githubusercontent.com/bkuhlmann/code_quality/2.2.0/configurations/<pick a file>
+    https://raw.githubusercontent.com/bkuhlmann/code_quality/2.3.0/configurations/<choose file>
 
 Master Version (unstable)
 
-    https://raw.githubusercontent.com/bkuhlmann/code_quality/master/configurations/<pick a file>
+    https://raw.githubusercontent.com/bkuhlmann/code_quality/master/configurations/<choose file>
 
 Here is a more concrete example using Rubocop. In your local `.rubocop.yml`, replace the contents
 with the following:
 
     inherit_from:
-      - https://raw.githubusercontent.com/bkuhlmann/code_quality/2.2.0/configurations/rubocop/ruby.yml
-      - https://raw.githubusercontent.com/bkuhlmann/code_quality/2.2.0/configurations/rubocop/rails.yml
+      - https://raw.githubusercontent.com/bkuhlmann/code_quality/2.3.0/configurations/rubocop/ruby.yml
+      - https://raw.githubusercontent.com/bkuhlmann/code_quality/2.3.0/configurations/rubocop/rails.yml
 
 Now you are configured to import from a global configuration. For further details, check out the
 [Rubocop Documentation](http://bit.ly/2DeUr8p).

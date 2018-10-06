@@ -74,6 +74,8 @@ Style/MethodDefParentheses:
   EnforcedStyle: require_no_parentheses
 Style/MissingElse:
   Enabled: true
+Style/MultilineMethodSignature:
+  Enabled: true
 Style/NumericLiterals:
   Enabled: false
 Style/OptionHash:

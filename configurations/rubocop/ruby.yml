@@ -40,6 +40,8 @@ Layout/MultilineAssignmentLayout:
   EnforcedStyle: same_line
 Layout/SpaceInsideHashLiteralBraces:
   EnforcedStyle: no_space
+Lint/Void:
+  CheckForMethodsWithNoSideEffects: true
 Metrics/BlockLength:
   Exclude:
     - "**/*.gemspec"

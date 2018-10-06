@@ -70,6 +70,8 @@ Style/FormatStringToken:
   EnforcedStyle: template
 Style/ImplicitRuntimeError:
   Enabled: true
+Style/IpAddresses:
+  Enabled: true
 Style/MethodCalledOnDoEndBlock:
   Enabled: true
 Style/MethodDefParentheses:

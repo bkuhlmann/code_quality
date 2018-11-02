@@ -1,3 +1,14 @@
+# 2.4.0 (2018-11-01)
+
+- Fixed Markdown ordered list numbering.
+- Added Style/IpAddresses cop.
+- Added Style/MultilineMethodSignature cop.
+- Updated Lint/Void cop to check for methods with side effects.
+- Updated Semantic Versioning links to be HTTPS.
+- Updated to Contributor Covenant Code of Conduct 1.4.1.
+- Updated to Ruby 2.5.2.
+- Updated to Ruby 2.5.3.
+
 # 2.3.0 (2018-04-22)
 
 - Added Layout/ClassStructure cop.

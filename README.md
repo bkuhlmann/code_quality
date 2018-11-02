@@ -34,7 +34,7 @@ projects. You may also fork this project to customize further for your specific 
 ## Requirements
 
 - Familiarity with [Rubocop](https://github.com/bbatsov/rubocop).
-- Rubocop 0.55.0 or higher.
+- Rubocop 0.60.0 or higher.
 
 ## Setup
 
@@ -54,7 +54,7 @@ following options:
 
 Current Version (stable)
 
-    https://raw.githubusercontent.com/bkuhlmann/code_quality/2.3.0/configurations/<choose file>
+    https://raw.githubusercontent.com/bkuhlmann/code_quality/2.4.0/configurations/<choose file>
 
 Master Version (unstable)
 
@@ -64,8 +64,8 @@ Here is a more concrete example using Rubocop. In your local `.rubocop.yml`, rep
 with the following:
 
     inherit_from:
-      - https://raw.githubusercontent.com/bkuhlmann/code_quality/2.3.0/configurations/rubocop/ruby.yml
-      - https://raw.githubusercontent.com/bkuhlmann/code_quality/2.3.0/configurations/rubocop/rails.yml
+      - https://raw.githubusercontent.com/bkuhlmann/code_quality/2.4.0/configurations/rubocop/ruby.yml
+      - https://raw.githubusercontent.com/bkuhlmann/code_quality/2.4.0/configurations/rubocop/rails.yml
 
 Now you are configured to import from a global configuration. For further details, check out the
 [Rubocop Documentation](http://bit.ly/2DeUr8p).

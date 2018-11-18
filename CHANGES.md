@@ -1,3 +1,7 @@
+# 2.5.0 (2018-11-18)
+
+- Added Rubocop RSpec configuration.
+
 # 2.4.0 (2018-11-01)
 
 - Fixed Markdown ordered list numbering.

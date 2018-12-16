@@ -54,6 +54,8 @@ Naming/VariableNumber:
   EnforcedStyle: snake_case
 Naming/UncommunicativeMethodParamName:
   AllowNamesEndingInNumbers: false
+Performance/OpenStruct:
+  Enabled: true
 Style/AndOr:
   EnforcedStyle: conditionals
 Style/AutoResourceCleanup:

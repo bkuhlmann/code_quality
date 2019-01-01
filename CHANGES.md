@@ -1,3 +1,12 @@
+# 3.0.0 (2019-01-01)
+
+- Fixed Circle CI cache for Ruby version.
+- Added Circle CI Bundler cache.
+- Added Performance/OpenStruct cop.
+- Updated to Git Cop 3.0.0.
+- Updated to Rubocop 0.62.0.
+- Updated to Ruby 2.6.0.
+
 # 2.5.0 (2018-11-18)
 
 - Added Rubocop RSpec configuration.

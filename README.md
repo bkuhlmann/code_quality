@@ -33,6 +33,7 @@ projects. You may also fork this project to customize further for your specific 
 
 ## Requirements
 
+- [Ruby](https://www.ruby-lang.org).
 - [Rubocop](https://github.com/bbatsov/rubocop).
 - [Rubocop RSpec](https://github.com/rubocop-hq/rubocop-rspec).
 

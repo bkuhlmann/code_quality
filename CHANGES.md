@@ -1,3 +1,8 @@
+# 3.1.0 (2019-03-02)
+
+- Added Rubocop Style/MethodCallWithArgsParentheses cop.
+- Updated to Ruby 2.6.1.
+
 # 3.0.0 (2019-01-01)
 
 - Fixed Circle CI cache for Ruby version.

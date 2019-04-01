@@ -1,3 +1,7 @@
+# 3.2.0 (2019-04-01)
+
+- Updated to Ruby 2.6.2.
+
 # 3.1.0 (2019-03-02)
 
 - Added Rubocop Style/MethodCallWithArgsParentheses cop.

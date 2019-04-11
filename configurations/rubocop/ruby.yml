@@ -50,6 +50,8 @@ Metrics/LineLength:
   Max: 100
 Metrics/ParameterLists:
   Max: 3
+Naming/RescuedExceptionsVariableName:
+  PreferredName: error
 Naming/VariableNumber:
   EnforcedStyle: snake_case
 Naming/UncommunicativeMethodParamName:

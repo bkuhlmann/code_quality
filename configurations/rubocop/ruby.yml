@@ -35,6 +35,8 @@ Layout/FirstMethodArgumentLineBreak:
   Enabled: true
 Layout/FirstMethodParameterLineBreak:
   Enabled: true
+Layout/MultilineArrayLineBreaks:
+  Enabled: true
 Layout/MultilineAssignmentLayout:
   Enabled: true
   EnforcedStyle: same_line

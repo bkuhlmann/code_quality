@@ -42,6 +42,8 @@ Layout/MultilineAssignmentLayout:
   EnforcedStyle: same_line
 Layout/MultilineHashKeyLineBreaks:
   Enabled: true
+Layout/MultilineMethodArgumentLineBreaks:
+  Enabled: true
 Layout/SpaceInsideHashLiteralBraces:
   EnforcedStyle: no_space
 Lint/Void:

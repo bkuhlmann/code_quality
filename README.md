@@ -35,7 +35,7 @@ projects. You may also fork this project to customize further for your specific 
 
 - [Ruby](https://www.ruby-lang.org).
 - [Rubocop](https://github.com/bbatsov/rubocop).
-- [Rubocop RSpec](https://github.com/rubocop-hq/rubocop-rspec).
+- [RSpec](https://rspec.info).
 
 ## Setup
 
@@ -66,6 +66,7 @@ with the following:
 
     inherit_from:
       - https://raw.githubusercontent.com/bkuhlmann/code_quality/3.2.0/configurations/rubocop/ruby.yml
+      - https://raw.githubusercontent.com/bkuhlmann/code_quality/3.2.0/configurations/rubocop/performance.yml
       - https://raw.githubusercontent.com/bkuhlmann/code_quality/3.2.0/configurations/rubocop/rails.yml
       - https://raw.githubusercontent.com/bkuhlmann/code_quality/3.2.0/configurations/rubocop/rspec.yml
 

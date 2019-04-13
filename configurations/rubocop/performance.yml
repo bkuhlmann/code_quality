@@ -1,0 +1,4 @@
+require: rubocop-performance
+
+Performance/OpenStruct:
+  Enabled: true

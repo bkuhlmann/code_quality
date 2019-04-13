@@ -1,3 +1,12 @@
+# 4.0.0 (2019-04-13)
+
+- Added Layout/MultilineArrayLineBreaks cop.
+- Added Layout/MultilineHashKeyLineBreaks cop.
+- Added Layout/MultilineMethodArgumentLineBreaks cop.
+- Added Naming/RescuedExceptionsVariableName cop.
+- Added Rubocop performance configuration.
+- Removed performance cops from Rubocop Ruby configuration.
+
 # 3.2.0 (2019-04-01)
 
 - Updated to Ruby 2.6.2.

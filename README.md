@@ -55,7 +55,7 @@ following options:
 
 Current Version (stable)
 
-    https://raw.githubusercontent.com/bkuhlmann/code_quality/3.2.0/configurations/<choose file>
+    https://raw.githubusercontent.com/bkuhlmann/code_quality/4.0.0/configurations/<choose file>
 
 Master Version (unstable)
 
@@ -65,10 +65,10 @@ Here is a more concrete example using Rubocop. In your local `.rubocop.yml`, rep
 with the following:
 
     inherit_from:
-      - https://raw.githubusercontent.com/bkuhlmann/code_quality/3.2.0/configurations/rubocop/ruby.yml
-      - https://raw.githubusercontent.com/bkuhlmann/code_quality/3.2.0/configurations/rubocop/performance.yml
-      - https://raw.githubusercontent.com/bkuhlmann/code_quality/3.2.0/configurations/rubocop/rails.yml
-      - https://raw.githubusercontent.com/bkuhlmann/code_quality/3.2.0/configurations/rubocop/rspec.yml
+      - https://raw.githubusercontent.com/bkuhlmann/code_quality/4.0.0/configurations/rubocop/ruby.yml
+      - https://raw.githubusercontent.com/bkuhlmann/code_quality/4.0.0/configurations/rubocop/performance.yml
+      - https://raw.githubusercontent.com/bkuhlmann/code_quality/4.0.0/configurations/rubocop/rails.yml
+      - https://raw.githubusercontent.com/bkuhlmann/code_quality/4.0.0/configurations/rubocop/rspec.yml
 
 Now you are configured to import from a global configuration. For further details, check out the
 [Rubocop Documentation](http://bit.ly/2DeUr8p).

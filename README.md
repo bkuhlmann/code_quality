@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="code_quality.png" alt="Code Quality Icon"/>
+</p>
+
 # Code Quality
 
 [![Circle CI Status](https://circleci.com/gh/bkuhlmann/code_quality.svg?style=svg)](https://circleci.com/gh/bkuhlmann/code_quality)

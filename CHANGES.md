@@ -1,3 +1,8 @@
+# 4.0.1 (2019-05-01)
+
+- Added project icon to README.
+- Updated to Ruby 2.6.3.
+
 # 4.0.0 (2019-04-13)
 
 - Added Layout/MultilineArrayLineBreaks cop.

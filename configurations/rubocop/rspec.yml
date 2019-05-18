@@ -1,4 +1,10 @@
 require: rubocop-rspec
 
+RSpec/ContextWording:
+  Prefixes:
+    - when
+    - with
+    - without
+
 RSpec/ExampleLength:
   Max: 10

@@ -8,3 +8,6 @@ RSpec/ContextWording:
 
 RSpec/ExampleLength:
   Max: 10
+
+RSpec/NamedSubject:
+  IgnoreSharedExamples: false

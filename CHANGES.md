@@ -1,3 +1,10 @@
+# 4.1.0 (2019-06-01)
+
+- Added RSpec/ContextWording prefixes.
+- Updated RSpec/NamedSubject to not ignore shared examples.
+- Updated contributing documentation.
+- Updated to Git Cop 3.5.0.
+
 # 4.0.1 (2019-05-01)
 
 - Added project icon to README.

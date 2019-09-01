@@ -1,3 +1,7 @@
+# 4.1.1 (2019-09-01)
+
+- Updated to Ruby 2.6.4.
+
 # 4.1.0 (2019-06-01)
 
 - Added RSpec/ContextWording prefixes.

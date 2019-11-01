@@ -1,3 +1,9 @@
+# 4.1.2 (2019-11-01)
+
+- Added Rubocop Rake configuration.
+- Updated to Rake 13.0.0.
+- Updated to Ruby 2.6.5.
+
 # 4.1.1 (2019-09-01)
 
 - Updated to Ruby 2.6.4.

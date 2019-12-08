@@ -1,3 +1,8 @@
+# 4.2.0 (2019-12-08)
+
+- Fixed Naming/MethodParameterName cop name.
+- Added RSpec/DescribedClassModuleWrapping cop.
+
 # 4.1.2 (2019-11-01)
 
 - Added Rubocop Rake configuration.

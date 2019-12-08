@@ -60,7 +60,7 @@ Naming/RescuedExceptionsVariableName:
   PreferredName: error
 Naming/VariableNumber:
   EnforcedStyle: snake_case
-Naming/UncommunicativeMethodParamName:
+Naming/MethodParameterName:
   AllowNamesEndingInNumbers: false
 Style/AndOr:
   EnforcedStyle: conditionals

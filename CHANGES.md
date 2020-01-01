@@ -1,3 +1,8 @@
+# 4.3.0 (2020-01-01)
+
+- Fixed line length namespace.
+- Updated to Ruby 2.7.0.
+
 # 4.2.0 (2019-12-08)
 
 - Fixed Naming/MethodParameterName cop name.

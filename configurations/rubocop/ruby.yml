@@ -76,6 +76,10 @@ Style/EmptyMethod:
   EnforcedStyle: expanded
 Style/FormatStringToken:
   EnforcedStyle: template
+Style/HashTransformKeys:
+  Enabled: true
+Style/HashTransformValues:
+  Enabled: true
 Style/ImplicitRuntimeError:
   Enabled: true
 Style/IpAddresses:

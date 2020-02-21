@@ -76,6 +76,8 @@ Style/EmptyMethod:
   EnforcedStyle: expanded
 Style/FormatStringToken:
   EnforcedStyle: template
+Style/HashEachMethods:
+  Enabled: true
 Style/HashTransformKeys:
   Enabled: true
 Style/HashTransformValues:

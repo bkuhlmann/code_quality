@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="code_quality.png" alt="Code Quality Icon"/>
+  <img src="https://www.alchemists.io/images/projects/code_quality/icon.png" alt="Code Quality Icon"/>
 </p>
 
 # Code Quality

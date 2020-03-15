@@ -19,6 +19,8 @@ projects. You may also fork this project to customize further for your specific 
   - [Features](#features)
   - [Requirements](#requirements)
   - [Setup](#setup)
+    - [Production](#production)
+    - [Development](#development)
   - [Usage](#usage)
   - [Versioning](#versioning)
   - [Code of Conduct](#code-of-conduct)
@@ -43,14 +45,18 @@ projects. You may also fork this project to customize further for your specific 
 
 ## Setup
 
-No setup is required other than what is mentioned in the *Requirements* section. If you would like
-to use the project, locally, you can do so by opening a terminal window and executing the following
-commands:
+### Production
+
+No setup is required other than what is mentioned in the *Requirements* section.
+
+### Development
+
+To contribute, run:
 
     git clone https://github.com/bkuhlmann/code_quality.git
     cd code_quality
 
-Edit any of the `configurations/*` files as you see fit.
+Apply changes to any of the `configurations/*` files.
 
 ## Usage
 

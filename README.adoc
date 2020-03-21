@@ -1,0 +1,107 @@
+:toc: macro
+:toclevels: 5
+:figure-caption!:
+
+= Code Quality
+
+[link=https://circleci.com/gh/bkuhlmann/code_quality]
+image::https://circleci.com/gh/bkuhlmann/code_quality.svg?style=svg[Circle CI Status]
+
+These are global configurations for ensuring high quality _and_ consistent software development
+practices. Feel free to link to this project in order to apply these configurations to your
+projects. You may also fork this project to customize further for your specific needs.
+
+_This project only supports tools which can import configurations via a URL._
+
+toc::[]
+
+== Features
+
+* Provides global configurations for tools that support URL imports.
+* Provides global configurations for the following tools:
+** link:https://github.com/bbatsov/rubocop[Rubocop]
+
+== Requirements
+
+* link:https://www.ruby-lang.org[Ruby].
+* link:https://github.com/bbatsov/rubocop[Rubocop].
+* link:https://rspec.info[RSpec].
+
+== Setup
+
+=== Production
+
+No setup is required other than what is mentioned in the _Requirements_ section.
+
+=== Development
+
+To contribute, run:
+
+[source,bash]
+----
+git clone https://github.com/bkuhlmann/code_quality.git
+cd code_quality
+----
+
+Apply changes to any of the `configurations/` files.
+
+== Usage
+
+This project is designed to be linked to your own projects. This can be done via one of the
+following options:
+
+Current Version (stable)
+
+....
+https://raw.githubusercontent.com/bkuhlmann/code_quality/4.3.0/configurations/<choose file>
+....
+
+Master Version (unstable)
+
+....
+https://raw.githubusercontent.com/bkuhlmann/code_quality/master/configurations/<choose file>
+....
+
+Here is a more concrete example using Rubocop. In your local `.rubocop.yml`, replace the contents
+with the following:
+
+[source,yaml]
+----
+inherit_from:
+  - https://raw.githubusercontent.com/bkuhlmann/code_quality/4.3.0/configurations/rubocop/ruby.yml
+  - https://raw.githubusercontent.com/bkuhlmann/code_quality/4.3.0/configurations/rubocop/performance.yml
+  - https://raw.githubusercontent.com/bkuhlmann/code_quality/4.3.0/configurations/rubocop/rails.yml
+  - https://raw.githubusercontent.com/bkuhlmann/code_quality/4.3.0/configurations/rubocop/rspec.yml
+----
+
+Now you are configured to import from a global configuration. For further details, check out the
+link:http://bit.ly/2DeUr8p[Rubocop Documentation].
+
+== Versioning
+
+Read link:https://semver.org[Semantic Versioning] for details. Briefly, it means:
+
+* Major (X.y.z) - Incremented for any backwards incompatible public API changes.
+* Minor (x.Y.z) - Incremented for new, backwards compatible, public API enhancements/fixes.
+* Patch (x.y.Z) - Incremented for small, backwards compatible, bug fixes.
+
+== Code of Conduct
+
+Please note that this project is released with a link:CODE_OF_CONDUCT.adoc[CODE OF CONDUCT]. By
+participating in this project you agree to abide by its terms.
+
+== Contributions
+
+Read link:CONTRIBUTING.adoc[CONTRIBUTING] for details.
+
+== License
+
+Read link:LICENSE.adoc[LICENSE] for details.
+
+== History
+
+Read link:CHANGES.adoc[CHANGES] for details.
+
+== Credits
+
+Engineered by link:https://www.alchemists.io/team/brooke_kuhlmann.html[Brooke Kuhlmann].

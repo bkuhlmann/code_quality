@@ -1,5 +1,17 @@
 = Changes
 
+== 4.4.0 (2020-04-01)
+
+- Added README production and development setup instructions
+- Added Style/HashEachMethod cop
+- Added style cops for hash transform keys and values
+- Updated Circle CI build label
+- Updated documentation to ASCII Doc format
+- Updated to Code of Conduct 2.0.0
+- Updated to Git Cop 4.0.0
+- Updated to Ruby 2.7.1
+- Removed README images
+
 == 4.3.0 (2020-01-01)
 
 * Fixed line length namespace.

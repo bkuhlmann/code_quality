@@ -48,6 +48,8 @@ Layout/MultilineMethodArgumentLineBreaks:
   Enabled: true
 Layout/SpaceInsideHashLiteralBraces:
   EnforcedStyle: no_space
+Lint/StructNewOverride:
+  Enabled: true
 Lint/Void:
   CheckForMethodsWithNoSideEffects: true
 Metrics/BlockLength:

@@ -46,6 +46,8 @@ Layout/MultilineHashKeyLineBreaks:
   Enabled: true
 Layout/MultilineMethodArgumentLineBreaks:
   Enabled: true
+Layout/SpaceAroundMethodCallOperator:
+  Enabled: true
 Layout/SpaceInsideHashLiteralBraces:
   EnforcedStyle: no_space
 Lint/RaiseException:

@@ -78,6 +78,8 @@ Style/EmptyLiteral:
   Enabled: false
 Style/EmptyMethod:
   EnforcedStyle: expanded
+Style/ExponentialNotation:
+  Enabled: true
 Style/FormatStringToken:
   EnforcedStyle: template
 Style/HashEachMethods:

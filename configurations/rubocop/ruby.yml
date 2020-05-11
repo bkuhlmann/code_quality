@@ -27,6 +27,8 @@ Layout/ClassStructure:
     - public_methods
     - protected_methods
     - private_methods
+Layout/EmptyLinesAroundAttributeAccessor:
+  Enabled: true
 Layout/FirstArrayElementLineBreak:
   Enabled: true
 Layout/FirstHashElementLineBreak:

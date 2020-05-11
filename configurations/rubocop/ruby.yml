@@ -129,6 +129,8 @@ Style/Send:
   Enabled: true
 Style/SignalException:
   EnforcedStyle: semantic
+Style/SlicingWithRange:
+  Enabled: true
 Style/StringLiterals:
   EnforcedStyle: double_quotes
 Style/StringLiteralsInInterpolation:

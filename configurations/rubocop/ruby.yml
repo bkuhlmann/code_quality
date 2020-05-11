@@ -52,6 +52,8 @@ Layout/SpaceAroundMethodCallOperator:
   Enabled: true
 Layout/SpaceInsideHashLiteralBraces:
   EnforcedStyle: no_space
+Layout/TrailingWhitespace:
+  AllowInHeredoc: false
 Lint/EmptyWhen:
   AllowComments: false
 Lint/RaiseException:

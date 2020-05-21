@@ -54,6 +54,8 @@ Layout/SpaceInsideHashLiteralBraces:
   EnforcedStyle: no_space
 Layout/TrailingWhitespace:
   AllowInHeredoc: false
+Lint/DeprecatedOpenSSLConstant:
+  Enabled: true
 Lint/EmptyWhen:
   AllowComments: false
 Lint/RaiseException:

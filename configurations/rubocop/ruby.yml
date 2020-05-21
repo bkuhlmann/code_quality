@@ -86,6 +86,8 @@ Style/CollectionMethods:
   Enabled: true
 Style/Documentation:
   Enabled: false
+Style/DoubleNegation:
+  EnforcedStyle: forbidden
 Style/EmptyLiteral:
   Enabled: false
 Style/EmptyMethod:

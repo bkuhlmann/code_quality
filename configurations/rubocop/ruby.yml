@@ -72,6 +72,16 @@ Metrics/BlockLength:
     - "spec/**/*"
 Metrics/ParameterLists:
   Max: 3
+Naming/MethodName:
+  IgnoredPatterns:
+    - Array
+    - BigDecimal
+    - Float
+    - Hash
+    - Integer
+    - Pathname
+    - String
+    - Version
 Naming/RescuedExceptionsVariableName:
   PreferredName: error
 Naming/VariableNumber:

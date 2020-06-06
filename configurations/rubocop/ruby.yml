@@ -143,6 +143,8 @@ Style/PercentLiteralDelimiters:
     "%i": "[]"
     "%I": "[]"
     "%r": "()"
+Style/RedundantRegexpCharacterClass:
+  Enabled: true
 Style/ReturnNil:
   Enabled: true
 Style/SafeNavigation:

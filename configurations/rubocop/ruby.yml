@@ -145,6 +145,8 @@ Style/PercentLiteralDelimiters:
     "%r": "()"
 Style/RedundantRegexpCharacterClass:
   Enabled: true
+Style/RedundantRegexpEscape:
+  Enabled: true
 Style/ReturnNil:
   Enabled: true
 Style/SafeNavigation:

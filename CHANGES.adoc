@@ -1,5 +1,12 @@
 = Changes
 
+== 4.8.0 (2020-06-06)
+
+- Added Lint/MixedRegexpCaptureTypes cop
+- Added Style/RedundantRegexpCharacterClass cop
+- Added Style/RedundantRegexpEscape cop
+- Updated Naming/MethodName cop to ignore Ruby conversion functions
+
 == 4.7.0 (2020-05-21)
 
 - Added Lint/DeprecatedOpenSSLConstant cop

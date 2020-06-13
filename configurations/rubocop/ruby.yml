@@ -78,10 +78,12 @@ Naming/MethodName:
   IgnoredPatterns:
     - Array
     - BigDecimal
+    - Complex
     - Float
     - Hash
     - Integer
     - Pathname
+    - Rational
     - String
     - Version
 Naming/RescuedExceptionsVariableName:

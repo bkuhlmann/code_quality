@@ -23,9 +23,9 @@ toc::[]
 
 == Requirements
 
-* link:https://www.ruby-lang.org[Ruby].
-* link:https://github.com/bbatsov/rubocop[Rubocop].
-* link:https://rspec.info[RSpec].
+* link:https://www.ruby-lang.org[Ruby]
+* link:https://github.com/bbatsov/rubocop[Rubocop]
+* link:https://rspec.info[RSpec]
 
 == Setup
 

@@ -82,9 +82,11 @@ Naming/MethodName:
     - Float
     - Hash
     - Integer
+    - JSON
     - Pathname
     - Rational
     - String
+    - URI
     - Version
 Naming/RescuedExceptionsVariableName:
   PreferredName: error

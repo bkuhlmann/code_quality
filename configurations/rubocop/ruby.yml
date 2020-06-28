@@ -147,6 +147,8 @@ Style/PercentLiteralDelimiters:
     "%i": "[]"
     "%I": "[]"
     "%r": "()"
+Style/RedundantFetchBlock:
+  Enabled: true
 Style/RedundantRegexpCharacterClass:
   Enabled: true
 Style/RedundantRegexpEscape:

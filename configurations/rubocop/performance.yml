@@ -12,5 +12,7 @@ Performance/RedundantStringChars:
   Enabled: true
 Performance/ReverseFirst:
   Enabled: true
+Performance/SortReverse:
+  Enabled: true
 Performance/Squeeze:
   Enabled: true

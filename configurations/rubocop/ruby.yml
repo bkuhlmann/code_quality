@@ -96,6 +96,8 @@ Naming/MethodParameterName:
   AllowNamesEndingInNumbers: false
 Style/AccessorGrouping:
   Enabled: true
+Style/ArrayCoercion:
+  Enabled: true
 Style/AndOr:
   EnforcedStyle: conditionals
 Style/AutoResourceCleanup:

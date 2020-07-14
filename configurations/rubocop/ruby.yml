@@ -155,6 +155,8 @@ Style/RedundantAssignment:
   Enabled: true
 Style/RedundantFetchBlock:
   Enabled: true
+Style/RedundantFileExtensionInRequire:
+  Enabled: true
 Style/RedundantRegexpCharacterClass:
   Enabled: true
 Style/RedundantRegexpEscape:

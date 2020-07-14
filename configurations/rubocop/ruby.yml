@@ -122,6 +122,8 @@ Style/ExponentialNotation:
   Enabled: true
 Style/FormatStringToken:
   EnforcedStyle: template
+Style/HashAsLastArrayItem:
+  Enabled: true
 Style/HashEachMethods:
   Enabled: true
 Style/HashTransformKeys:

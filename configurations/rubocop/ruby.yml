@@ -106,6 +106,8 @@ Style/AutoResourceCleanup:
   Enabled: true
 Style/BisectedAttrAccessor:
   Enabled: true
+Style/CaseLikeIf:
+  Enabled: true
 Style/CollectionMethods:
   Enabled: true
 Style/Documentation:

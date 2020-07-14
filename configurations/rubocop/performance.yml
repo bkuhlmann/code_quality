@@ -2,3 +2,5 @@ require: rubocop-performance
 
 Performance/OpenStruct:
   Enabled: true
+Performance/RedundantStringChars:
+  Enabled: true

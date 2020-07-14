@@ -1,5 +1,7 @@
 require: rubocop-performance
 
+Performance/BigDecimalWithNumericArgument:
+  Enabled: true
 Performance/IoReadlines:
   Enabled: true
 Performance/OpenStruct:

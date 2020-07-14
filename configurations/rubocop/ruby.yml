@@ -94,6 +94,8 @@ Naming/VariableNumber:
   EnforcedStyle: snake_case
 Naming/MethodParameterName:
   AllowNamesEndingInNumbers: false
+Style/AccessorGrouping:
+  Enabled: true
 Style/AndOr:
   EnforcedStyle: conditionals
 Style/AutoResourceCleanup:

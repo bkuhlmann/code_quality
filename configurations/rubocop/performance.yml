@@ -16,3 +16,5 @@ Performance/SortReverse:
   Enabled: true
 Performance/Squeeze:
   Enabled: true
+Performance/StringInclude:
+  Enabled: true

@@ -27,6 +27,8 @@ Layout/ClassStructure:
     - public_methods
     - protected_methods
     - private_methods
+Lint/DuplicateElsifCondition:
+  Enabled: true
 Layout/EmptyLinesAroundAttributeAccessor:
   Enabled: true
   AllowAliasSyntax: false

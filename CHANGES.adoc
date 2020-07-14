@@ -1,5 +1,26 @@
 = Changes
 
+== 4.10.0 (2020-07-13)
+
+* Added Lint/DuplicateElsifCondition
+* Added Performance/AncestorsInclude
+* Added Performance/BigDecimalWithNumericArgument
+* Added Performance/IoReadlines
+* Added Performance/RedundantSortBlock
+* Added Performance/RedundantStringChars
+* Added Performance/ReverseFirst
+* Added Performance/SortReverse
+* Added Performance/Squeeze
+* Added Performance/StringInclude
+* Added Style/AccessorGrouping
+* Added Style/ArrayCoercion
+* Added Style/BisectedAttrAccessor
+* Added Style/CaseLikeIf
+* Added Style/HashAsLastArrayItem
+* Added Style/HashLikeCase
+* Added Style/RedundantAssignment
+* Added Style/RedundantFileExtensionInRequire
+
 == 4.9.0 (2020-06-28)
 
 * Fixed project requirements

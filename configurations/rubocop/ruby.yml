@@ -126,6 +126,9 @@ Style/HashAsLastArrayItem:
   Enabled: true
 Style/HashEachMethods:
   Enabled: true
+Style/HashLikeCase:
+  Enabled: true
+  MinBranchesCount: 2
 Style/HashTransformKeys:
   Enabled: true
 Style/HashTransformValues:

@@ -4,6 +4,8 @@ Performance/IoReadlines:
   Enabled: true
 Performance/OpenStruct:
   Enabled: true
+Performance/RedundantSortBlock:
+  Enabled: true
 Performance/RedundantStringChars:
   Enabled: true
 Performance/ReverseFirst:

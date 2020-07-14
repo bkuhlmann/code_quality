@@ -6,3 +6,5 @@ Performance/OpenStruct:
   Enabled: true
 Performance/RedundantStringChars:
   Enabled: true
+Performance/ReverseFirst:
+  Enabled: true

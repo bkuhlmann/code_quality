@@ -29,6 +29,8 @@ Layout/ClassStructure:
     - private_methods
 Lint/DuplicateElsifCondition:
   Enabled: true
+Lint/DuplicateRescueException:
+  Enabled: true
 Lint/SelfAssignment:
   Enabled: true
 Layout/EmptyLinesAroundAttributeAccessor:

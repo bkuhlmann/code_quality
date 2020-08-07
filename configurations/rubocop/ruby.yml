@@ -136,6 +136,8 @@ Style/ExponentialNotation:
   Enabled: true
 Style/FormatStringToken:
   EnforcedStyle: template
+Style/GlobalStdStream:
+  Enabled: false
 Style/HashAsLastArrayItem:
   Enabled: true
 Style/HashEachMethods:

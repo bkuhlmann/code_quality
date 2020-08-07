@@ -1,5 +1,23 @@
 = Changes
 
+== 4.11.0 (2020-08-06)
+
+- Fixed Lint and Layout department ordering
+- Added Lint/BinaryOperatorWithIdenticalOperands
+- Added Lint/DuplicateRescueException
+- Added Lint/EmptyConditionalBody
+- Added Lint/FloatComparison
+- Added Lint/MissingSuper
+- Added Lint/OutOfRangeRegexpRef
+- Added Lint/SelfAssignment
+- Added Lint/TopLevelReturnWithArgument
+- Added Lint/UnreachableLoop
+- Added Style/ExplicitBlockArgument
+- Added Style/GlobalStdStream
+- Added Style/OptionalBooleanParameter
+- Added Style/SingleArgumentDig
+- Added Style/StringConcatenation
+
 == 4.10.0 (2020-07-13)
 
 * Added Lint/DuplicateElsifCondition

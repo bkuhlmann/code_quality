@@ -68,6 +68,8 @@ Layout/TrailingWhitespace:
   AllowInHeredoc: false
 Lint/DeprecatedOpenSSLConstant:
   Enabled: true
+Lint/EmptyConditionalBody:
+  Enabled: true
 Lint/EmptyWhen:
   AllowComments: false
 Lint/FloatComparison:

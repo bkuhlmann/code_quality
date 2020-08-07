@@ -84,6 +84,8 @@ Lint/StructNewOverride:
   Enabled: true
 Lint/TopLevelReturnWithArgument:
   Enabled: true
+Lint/OutOfRangeRegexpRef:
+  Enabled: true
 Lint/Void:
   CheckForMethodsWithNoSideEffects: true
 Metrics/BlockLength:

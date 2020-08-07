@@ -72,6 +72,8 @@ Lint/EmptyWhen:
   AllowComments: false
 Lint/FloatComparison:
   Enabled: true
+Lint/MissingSuper:
+  Enabled: true
 Lint/MixedRegexpCaptureTypes:
   Enabled: true
 Lint/RaiseException:

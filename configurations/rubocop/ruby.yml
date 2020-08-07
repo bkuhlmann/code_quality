@@ -70,6 +70,8 @@ Lint/DeprecatedOpenSSLConstant:
   Enabled: true
 Lint/EmptyWhen:
   AllowComments: false
+Lint/FloatComparison:
+  Enabled: true
 Lint/MixedRegexpCaptureTypes:
   Enabled: true
 Lint/RaiseException:

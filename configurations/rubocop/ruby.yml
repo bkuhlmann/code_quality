@@ -27,6 +27,8 @@ Layout/ClassStructure:
     - public_methods
     - protected_methods
     - private_methods
+Lint/BinaryOperatorWithIdenticalOperands:
+  Enabled: true
 Lint/DuplicateElsifCondition:
   Enabled: true
 Lint/DuplicateRescueException:

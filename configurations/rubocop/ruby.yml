@@ -35,6 +35,8 @@ Lint/DuplicateRescueException:
   Enabled: true
 Lint/SelfAssignment:
   Enabled: true
+Lint/UnreachableLoop:
+  Enabled: true
 Layout/EmptyLinesAroundAttributeAccessor:
   Enabled: true
   AllowAliasSyntax: false

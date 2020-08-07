@@ -198,6 +198,8 @@ Style/Send:
   Enabled: true
 Style/SignalException:
   EnforcedStyle: semantic
+Style/SingleArgumentDig:
+  Enabled: true
 Style/SlicingWithRange:
   Enabled: true
 Style/StringConcatenation:

@@ -136,6 +136,8 @@ Style/EmptyLiteral:
   Enabled: false
 Style/EmptyMethod:
   EnforcedStyle: expanded
+Style/ExplicitBlockArgument:
+  Enabled: false
 Style/ExponentialNotation:
   Enabled: true
 Style/FormatStringToken:

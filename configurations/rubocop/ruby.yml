@@ -196,6 +196,8 @@ Style/SignalException:
   EnforcedStyle: semantic
 Style/SlicingWithRange:
   Enabled: true
+Style/StringConcatenation:
+  Enabled: false
 Style/StringLiterals:
   EnforcedStyle: double_quotes
 Style/StringLiteralsInInterpolation:

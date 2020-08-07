@@ -80,6 +80,8 @@ Lint/RaiseException:
   Enabled: true
 Lint/StructNewOverride:
   Enabled: true
+Lint/TopLevelReturnWithArgument:
+  Enabled: true
 Lint/Void:
   CheckForMethodsWithNoSideEffects: true
 Metrics/BlockLength:

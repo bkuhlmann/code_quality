@@ -161,6 +161,8 @@ Style/MultilineMethodSignature:
   Enabled: true
 Style/NumericLiterals:
   Enabled: false
+Style/OptionalBooleanParameter:
+  Enabled: true
 Style/OptionHash:
   Enabled: true
 Style/PercentLiteralDelimiters:

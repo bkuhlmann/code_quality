@@ -27,16 +27,6 @@ Layout/ClassStructure:
     - public_methods
     - protected_methods
     - private_methods
-Lint/BinaryOperatorWithIdenticalOperands:
-  Enabled: true
-Lint/DuplicateElsifCondition:
-  Enabled: true
-Lint/DuplicateRescueException:
-  Enabled: true
-Lint/SelfAssignment:
-  Enabled: true
-Lint/UnreachableLoop:
-  Enabled: true
 Layout/EmptyLinesAroundAttributeAccessor:
   Enabled: true
   AllowAliasSyntax: false
@@ -66,7 +56,13 @@ Layout/SpaceInsideHashLiteralBraces:
   EnforcedStyle: no_space
 Layout/TrailingWhitespace:
   AllowInHeredoc: false
+Lint/BinaryOperatorWithIdenticalOperands:
+  Enabled: true
 Lint/DeprecatedOpenSSLConstant:
+  Enabled: true
+Lint/DuplicateElsifCondition:
+  Enabled: true
+Lint/DuplicateRescueException:
   Enabled: true
 Lint/EmptyConditionalBody:
   Enabled: true
@@ -80,11 +76,15 @@ Lint/MixedRegexpCaptureTypes:
   Enabled: true
 Lint/RaiseException:
   Enabled: true
+Lint/SelfAssignment:
+  Enabled: true
 Lint/StructNewOverride:
   Enabled: true
 Lint/TopLevelReturnWithArgument:
   Enabled: true
 Lint/OutOfRangeRegexpRef:
+  Enabled: true
+Lint/UnreachableLoop:
   Enabled: true
 Lint/Void:
   CheckForMethodsWithNoSideEffects: true

@@ -215,6 +215,8 @@ Style/SingleArgumentDig:
   Enabled: true
 Style/SlicingWithRange:
   Enabled: true
+Style/SoleNestedConditional:
+  Enabled: true
 Style/StringConcatenation:
   Enabled: false
 Style/StringLiterals:

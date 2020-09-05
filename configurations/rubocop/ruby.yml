@@ -89,6 +89,9 @@ Lint/UnreachableLoop:
 Lint/Void:
   CheckForMethodsWithNoSideEffects: true
 Metrics/BlockLength:
+  ExcludedMethods:
+    - ips
+    - refine
   Exclude:
     - "**/*.gemspec"
     - "spec/**/*"

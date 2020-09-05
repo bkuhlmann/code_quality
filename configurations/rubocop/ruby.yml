@@ -66,6 +66,8 @@ Lint/DuplicateElsifCondition:
   Enabled: true
 Lint/DuplicateRescueException:
   Enabled: true
+Lint/DuplicateRequire:
+  Enabled: true
 Lint/EmptyConditionalBody:
   Enabled: true
 Lint/EmptyWhen:

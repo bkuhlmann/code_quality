@@ -160,6 +160,8 @@ Style/HashTransformKeys:
   Enabled: true
 Style/HashTransformValues:
   Enabled: true
+Style/KeywordParametersOrder:
+  Enabled: true
 Style/ImplicitRuntimeError:
   Enabled: true
 Style/IpAddresses:

@@ -191,6 +191,8 @@ Style/PercentLiteralDelimiters:
     "%r": "()"
 Style/RedundantAssignment:
   Enabled: true
+Style/RedundantSelfAssignment:
+  Enabled: true
 Style/RedundantFetchBlock:
   Enabled: true
 Style/RedundantFileExtensionInRequire:

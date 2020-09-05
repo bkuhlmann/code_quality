@@ -89,6 +89,8 @@ Lint/StructNewOverride:
   Enabled: true
 Lint/TopLevelReturnWithArgument:
   Enabled: true
+Lint/TrailingCommaInAttributeDeclaration:
+  Enabled: true
 Lint/OutOfRangeRegexpRef:
   Enabled: true
 Lint/UnreachableLoop:

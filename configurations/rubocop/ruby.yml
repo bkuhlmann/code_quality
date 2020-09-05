@@ -90,6 +90,9 @@ Lint/OutOfRangeRegexpRef:
   Enabled: true
 Lint/UnreachableLoop:
   Enabled: true
+Lint/UselessMethodDefinition:
+  Enabled: true
+  AllowComments: false
 Lint/Void:
   CheckForMethodsWithNoSideEffects: true
 Metrics/BlockLength:

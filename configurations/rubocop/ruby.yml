@@ -131,6 +131,8 @@ Style/BisectedAttrAccessor:
   Enabled: true
 Style/CaseLikeIf:
   Enabled: true
+Style/ClassMethodsDefinitions:
+  Enabled: true
 Style/CombinableLoops:
   Enabled: true
 Style/CollectionMethods:

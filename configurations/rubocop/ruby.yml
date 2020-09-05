@@ -27,6 +27,8 @@ Layout/ClassStructure:
     - public_methods
     - protected_methods
     - private_methods
+Layout/EmptyLineAfterMultilineCondition:
+  Enabled: true
 Layout/EmptyLinesAroundAttributeAccessor:
   Enabled: true
   AllowAliasSyntax: false

@@ -63,6 +63,8 @@ Layout/TrailingWhitespace:
   AllowInHeredoc: false
 Lint/BinaryOperatorWithIdenticalOperands:
   Enabled: true
+Lint/ConstantDefinitionInBlock:
+  Enabled:  true
 Lint/DeprecatedOpenSSLConstant:
   Enabled: true
 Lint/DuplicateElsifCondition:

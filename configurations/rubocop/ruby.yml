@@ -80,6 +80,8 @@ Lint/EmptyWhen:
   AllowComments: false
 Lint/FloatComparison:
   Enabled: true
+Lint/IdentityComparison:
+  Enabled: true
 Lint/MissingSuper:
   Enabled: true
 Lint/MixedRegexpCaptureTypes:

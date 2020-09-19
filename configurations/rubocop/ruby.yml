@@ -5,6 +5,9 @@ AllCops:
     - "node_modules/**/*"
     - "tmp/**/*"
     - "vendor/**/*"
+Layout/BeginEndAlignment:
+  Enabled: true
+  EnforcedStyleAlignWith: begin
 Layout/CaseIndentation:
   IndentOneStep: true
 Layout/ClassStructure:

@@ -1,5 +1,12 @@
 = Changes
 
+== 4.13.0 (2020-09-19)
+
+- Added Layout/BeginEndAlignment
+- Added Lint/ConstantDefinitionInBlock
+- Added Lint/IdentityComparison
+- Added Lint/UselessTimes
+
 == 4.12.0 (2020-09-05)
 
 * Added Layout/EmptyLineAfterMultilineCondition

@@ -103,6 +103,8 @@ Lint/UnreachableLoop:
 Lint/UselessMethodDefinition:
   Enabled: true
   AllowComments: false
+Lint/UselessTimes:
+  Enabled: true
 Lint/Void:
   CheckForMethodsWithNoSideEffects: true
 Metrics/BlockLength:

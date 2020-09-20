@@ -40,6 +40,8 @@ Layout/FirstArrayElementIndentation:
   EnforcedStyle: consistent
 Layout/FirstArrayElementLineBreak:
   Enabled: true
+Layout/FirstHashElementIndentation:
+  EnforcedStyle: consistent
 Layout/FirstHashElementLineBreak:
   Enabled: true
 Layout/FirstMethodArgumentLineBreak:

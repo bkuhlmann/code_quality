@@ -36,6 +36,8 @@ Layout/EmptyLinesAroundAttributeAccessor:
   Enabled: true
   AllowAliasSyntax: false
   AllowedMethods: []
+Layout/FirstArrayElementIndentation:
+  EnforcedStyle: consistent
 Layout/FirstArrayElementLineBreak:
   Enabled: true
 Layout/FirstHashElementLineBreak:

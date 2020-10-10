@@ -1,11 +1,20 @@
 = Changes
 
+== 4.14.0 (2020-10-10)
+
+* Fixed Layout/FirstArrayElementIndentation to use consistent style
+* Fixed Layout/FirstHashElementIndentation to use consistent style
+* Added Lint/HashCompareByIdentity
+* Added Lint/RedundantSafeNavigation
+* Added Style/ClassEqualityComparison
+* Updated to Ruby 2.7.2
+
 == 4.13.0 (2020-09-19)
 
-- Added Layout/BeginEndAlignment
-- Added Lint/ConstantDefinitionInBlock
-- Added Lint/IdentityComparison
-- Added Lint/UselessTimes
+* Added Layout/BeginEndAlignment
+* Added Lint/ConstantDefinitionInBlock
+* Added Lint/IdentityComparison
+* Added Lint/UselessTimes
 
 == 4.12.0 (2020-09-05)
 

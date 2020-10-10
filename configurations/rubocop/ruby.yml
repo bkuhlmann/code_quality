@@ -86,6 +86,8 @@ Lint/EmptyWhen:
   AllowComments: false
 Lint/FloatComparison:
   Enabled: true
+Lint/HashCompareByIdentity:
+  Enabled: true
 Lint/IdentityComparison:
   Enabled: true
 Lint/MissingSuper:

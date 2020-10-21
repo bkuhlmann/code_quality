@@ -5,12 +5,11 @@ RSpec/ContextWording:
     - when
     - with
     - without
-
 RSpec/DescribedClassModuleWrapping:
   Enabled: true
-
 RSpec/ExampleLength:
   Max: 10
-
 RSpec/NamedSubject:
   IgnoreSharedExamples: false
+RSpec/StubbedMock:
+  Enabled: true

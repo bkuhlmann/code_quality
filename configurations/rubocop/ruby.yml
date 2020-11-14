@@ -178,6 +178,8 @@ Style/CollectionMethods:
   Enabled: true
 Style/Documentation:
   Enabled: false
+Style/DocumentDynamicEvalDefinition:
+  Enabled: false
 Style/DoubleNegation:
   EnforcedStyle: forbidden
 Style/EmptyLiteral:

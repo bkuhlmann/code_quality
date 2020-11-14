@@ -233,6 +233,8 @@ Style/MultilineMethodSignature:
   Enabled: true
 Style/NegatedIfElseCondition:
   Enabled: true
+Style/NilLambda:
+  Enabled: true
 Style/NumericLiterals:
   Enabled: false
 Style/OptionalBooleanParameter:

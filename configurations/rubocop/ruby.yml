@@ -71,6 +71,8 @@ Lint/ConstantDefinitionInBlock:
   Enabled:  true
 Lint/DeprecatedOpenSSLConstant:
   Enabled: true
+Lint/DuplicateBranch:
+  Enabled: true
 Lint/DuplicateElsifCondition:
   Enabled: true
 Lint/DuplicateRegexpCharacterClassElement:

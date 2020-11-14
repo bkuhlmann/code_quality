@@ -229,6 +229,8 @@ Style/MissingElse:
   Enabled: true
 Style/MultilineMethodSignature:
   Enabled: true
+Style/NegatedIfElseCondition:
+  Enabled: true
 Style/NumericLiterals:
   Enabled: false
 Style/OptionalBooleanParameter:

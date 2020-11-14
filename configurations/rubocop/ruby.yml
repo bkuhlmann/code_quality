@@ -79,6 +79,10 @@ Lint/DuplicateRescueException:
   Enabled: true
 Lint/DuplicateRequire:
   Enabled: true
+Lint/EmptyBlock:
+  Enabled: true
+  AllowComments: false
+  AllowEmptyLambdas: false
 Lint/EmptyConditionalBody:
   Enabled: true
 Lint/EmptyFile:

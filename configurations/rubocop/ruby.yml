@@ -83,6 +83,8 @@ Lint/EmptyBlock:
   Enabled: true
   AllowComments: false
   AllowEmptyLambdas: false
+Lint/EmptyClass:
+  Enabled: true
 Lint/EmptyConditionalBody:
   Enabled: true
 Lint/EmptyFile:

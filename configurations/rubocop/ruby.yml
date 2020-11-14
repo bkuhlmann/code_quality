@@ -272,6 +272,8 @@ Style/SlicingWithRange:
   Enabled: true
 Style/SoleNestedConditional:
   Enabled: true
+Style/StaticClass:
+  Enabled: true
 Style/StringConcatenation:
   Enabled: false
 Style/StringLiterals:

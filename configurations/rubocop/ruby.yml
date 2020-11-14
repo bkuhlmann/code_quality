@@ -176,6 +176,8 @@ Style/ClassMethodsDefinitions:
   Enabled: true
 Style/CombinableLoops:
   Enabled: true
+Style/CollectionCompact:
+  Enabled: true
 Style/CollectionMethods:
   Enabled: true
 Style/Documentation:

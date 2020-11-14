@@ -73,6 +73,8 @@ Lint/DeprecatedOpenSSLConstant:
   Enabled: true
 Lint/DuplicateElsifCondition:
   Enabled: true
+Lint/DuplicateRegexpCharacterClassElement:
+  Enabled: true
 Lint/DuplicateRescueException:
   Enabled: true
 Lint/DuplicateRequire:

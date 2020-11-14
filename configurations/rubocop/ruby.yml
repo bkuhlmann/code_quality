@@ -154,6 +154,8 @@ Naming/MethodParameterName:
   AllowNamesEndingInNumbers: false
 Style/AccessorGrouping:
   Enabled: true
+Style/ArgumentsForwarding:
+  Enabled: false
 Style/ArrayCoercion:
   Enabled: true
 Style/AndOr:

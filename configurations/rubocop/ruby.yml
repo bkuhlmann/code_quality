@@ -114,6 +114,8 @@ Lint/TrailingCommaInAttributeDeclaration:
   Enabled: true
 Lint/OutOfRangeRegexpRef:
   Enabled: true
+Lint/UnmodifiedReduceAccumulator:
+  Enabled: true
 Lint/UnreachableLoop:
   Enabled: true
 Lint/UselessMethodDefinition:

@@ -160,6 +160,8 @@ Naming/RescuedExceptionsVariableName:
   PreferredName: error
 Naming/VariableNumber:
   EnforcedStyle: snake_case
+  AllowedIdentifiers:
+    - capture3
 Naming/MethodParameterName:
   AllowNamesEndingInNumbers: false
 Style/AccessorGrouping:

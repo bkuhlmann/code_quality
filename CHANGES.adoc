@@ -1,5 +1,26 @@
 = Changes
 
+== 5.0.0 (2020-11-14)
+
+* Added Lint/DuplicateBranch
+* Added Lint/DuplicateRegexpCharacterClassElement
+* Added Lint/EmptyBlock
+* Added Lint/EmptyClass
+* Added Lint/NoReturnInBeginEndBlocks
+* Added Lint/ToEnumArguments
+* Added Lint/UnmodifiedReduceAccumulator
+* Added RSpec/StubbedMock
+* Added Style/ArgumentsForwarding
+* Added Style/CollectionCompact
+* Added Style/DocumentDynamicEvalDefinition
+* Added Style/NegatedIfElseCondition
+* Added Style/NilLambda
+* Added Style/StaticClass
+* Added Style/SwapValues
+* Updated Naming/VariableNumber to allow specific identifiers
+* Updated project documentation to conform to Rubysmith template
+* Updated to Git Lint 1.3.0
+
 == 4.14.0 (2020-10-10)
 
 * Fixed Layout/FirstArrayElementIndentation to use consistent style

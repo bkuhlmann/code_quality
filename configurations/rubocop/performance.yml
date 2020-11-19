@@ -8,6 +8,8 @@ Performance/BigDecimalWithNumericArgument:
   Enabled: true
 Performance/BlockGivenWithExplicitBlock:
   Enabled: true
+Performance/CollectionLiteralInLoop:
+  Enabled: true
 Performance/IoReadlines:
   Enabled: true
 Performance/OpenStruct:

@@ -6,6 +6,8 @@ Performance/ArraySemiInfiniteRangeSlice:
   Enabled: true
 Performance/BigDecimalWithNumericArgument:
   Enabled: true
+Performance/BlockGivenWithExplicitBlock:
+  Enabled: true
 Performance/IoReadlines:
   Enabled: true
 Performance/OpenStruct:

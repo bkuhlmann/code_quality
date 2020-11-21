@@ -1,5 +1,13 @@
 = Changes
 
+== 5.1.0 (2020-11-21)
+
+* Added Performance/ArraySemiInfiniteRangeSlice
+* Added Performance/BlockGivenWithExplicitBlock
+* Added Performance/CollectionLiteralInLoop
+* Added Performance/ConstantRegexp
+* Added Performance/MethodObjectAsBlock
+
 == 5.0.0 (2020-11-14)
 
 * Added Lint/DuplicateBranch

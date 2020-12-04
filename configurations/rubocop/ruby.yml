@@ -134,7 +134,7 @@ Lint/UselessTimes:
 Lint/Void:
   CheckForMethodsWithNoSideEffects: true
 Metrics/BlockLength:
-  ExcludedMethods:
+  IgnoredMethods:
     - ips
     - refine
   Exclude:

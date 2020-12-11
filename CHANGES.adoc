@@ -1,5 +1,11 @@
 = Changes
 
+== 5.2.0 (2020-12-10)
+
+* Fixed Metrics/BlockLength ignored methods configuration
+* Added Lint/UnexpectedBlockArity
+* Added Style/RedundantArgument
+
 == 5.1.0 (2020-11-21)
 
 * Added Performance/ArraySemiInfiniteRangeSlice

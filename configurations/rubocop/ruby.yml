@@ -67,6 +67,8 @@ Layout/SpaceInsideHashLiteralBraces:
   EnforcedStyle: no_space
 Layout/TrailingWhitespace:
   AllowInHeredoc: false
+Lint/AmbiguousAssignment:
+  Enabled: true
 Lint/BinaryOperatorWithIdenticalOperands:
   Enabled: true
 Lint/ConstantDefinitionInBlock:

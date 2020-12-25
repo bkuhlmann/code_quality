@@ -61,6 +61,8 @@ Layout/MultilineMethodArgumentLineBreaks:
   Enabled: true
 Layout/SpaceAroundMethodCallOperator:
   Enabled: true
+Layout/SpaceBeforeBrackets:
+  Enabled: true
 Layout/SpaceInsideHashLiteralBraces:
   EnforcedStyle: no_space
 Layout/TrailingWhitespace:

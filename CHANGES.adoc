@@ -1,5 +1,16 @@
 = Changes
 
+== 6.0.0 (2020-12-30)
+
+* Fixed Bundler/OrderedGems issue - Brooke Kuhlmann
+* Fixed Circle CI configuration for Bundler config path - Brooke Kuhlmann
+* Added Circle CI explicit Bundle install configuration - Brooke Kuhlmann
+* Added Layout/SpaceBeforeBrackets - Brooke Kuhlmann
+* Added Lint/AmbiguousAssignment - Brooke Kuhlmann
+* Added Style/HashExcept - Brooke Kuhlmann
+* Updated to Git Lint 2.0.0 - Brooke Kuhlmann
+* Updated to Ruby 3.0.0 - Brooke Kuhlmann
+
 == 5.2.0 (2020-12-10)
 
 * Fixed Metrics/BlockLength ignored methods configuration

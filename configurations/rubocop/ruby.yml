@@ -73,6 +73,8 @@ Lint/BinaryOperatorWithIdenticalOperands:
   Enabled: true
 Lint/ConstantDefinitionInBlock:
   Enabled:  true
+Lint/DeprecatedConstants:
+  Enabled: true
 Lint/DeprecatedOpenSSLConstant:
   Enabled: true
 Lint/DuplicateBranch:
@@ -112,9 +114,9 @@ Lint/NoReturnInBeginEndBlocks:
   Enabled: true
 Lint/RaiseException:
   Enabled: true
-Lint/RedundantSafeNavigation:
-  Enabled: true
 Lint/RedundantDirGlobSort:
+  Enabled: true
+Lint/RedundantSafeNavigation:
   Enabled: true
 Lint/SelfAssignment:
   Enabled: true

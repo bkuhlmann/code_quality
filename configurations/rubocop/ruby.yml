@@ -114,6 +114,8 @@ Lint/RaiseException:
   Enabled: true
 Lint/RedundantSafeNavigation:
   Enabled: true
+Lint/RedundantDirGlobSort:
+  Enabled: true
 Lint/SelfAssignment:
   Enabled: true
 Lint/StructNewOverride:

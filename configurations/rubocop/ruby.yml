@@ -106,6 +106,8 @@ Lint/HashCompareByIdentity:
   Enabled: true
 Lint/IdentityComparison:
   Enabled: true
+Lint/LambdaWithoutLiteralBlock:
+  Enabled: true
 Lint/MissingSuper:
   Enabled: true
 Lint/MixedRegexpCaptureTypes:

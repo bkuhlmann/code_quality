@@ -204,6 +204,8 @@ Style/EmptyLiteral:
   Enabled: false
 Style/EmptyMethod:
   EnforcedStyle: expanded
+Style/EndlessMethod:
+  Enabled: true
 Style/ExplicitBlockArgument:
   Enabled: false
 Style/ExponentialNotation:

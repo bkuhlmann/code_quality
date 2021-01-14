@@ -5,6 +5,11 @@ RSpec/ContextWording:
     - when
     - with
     - without
+RSpec/DescribeClass:
+  IgnoredMetadata:
+    type:
+      - feature
+      - task
 RSpec/DescribedClassModuleWrapping:
   Enabled: true
 RSpec/ExampleLength:

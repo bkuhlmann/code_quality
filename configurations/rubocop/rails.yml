@@ -1,2 +1,1 @@
-Rails:
-  Enabled: true
+require: rubocop-rails

@@ -9,6 +9,7 @@ RSpec/DescribeClass:
   IgnoredMetadata:
     type:
       - feature
+      - request
       - task
 RSpec/DescribedClassModuleWrapping:
   Enabled: true

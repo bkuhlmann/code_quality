@@ -124,6 +124,8 @@ Lint/SelfAssignment:
   Enabled: true
 Lint/StructNewOverride:
   Enabled: true
+Lint/SymbolConversion:
+  Enabled: true
 Lint/ToEnumArguments:
   Enabled: true
 Lint/TopLevelReturnWithArgument:

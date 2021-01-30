@@ -233,11 +233,13 @@ Style/HashTransformKeys:
   Enabled: true
 Style/HashTransformValues:
   Enabled: true
-Style/KeywordParametersOrder:
+Style/IfWithBooleanLiteralBranches:
   Enabled: true
 Style/ImplicitRuntimeError:
   Enabled: true
 Style/IpAddresses:
+  Enabled: true
+Style/KeywordParametersOrder:
   Enabled: true
 Style/MethodCalledOnDoEndBlock:
   Enabled: true

@@ -130,6 +130,8 @@ Lint/TopLevelReturnWithArgument:
   Enabled: true
 Lint/TrailingCommaInAttributeDeclaration:
   Enabled: true
+Lint/TripleQuotes:
+  Enabled: true
 Lint/OutOfRangeRegexpRef:
   Enabled: true
 Lint/UnexpectedBlockArity:

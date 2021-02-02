@@ -1,5 +1,21 @@
 = Changes
 
+== 6.1.0 (2021-02-02)
+
+* Fixed Rubocop Rails configuration - Brooke Kuhlmann
+* Added Lint/DeprecatedConstants - Brooke Kuhlmann
+* Added Lint/LambdaWithoutLiteralBlock - Brooke Kuhlmann
+* Added Lint/NumberedParameterAssignment - Brooke Kuhlmann
+* Added Lint/OrAssignmentToConstant - Brooke Kuhlmann
+* Added Lint/RedundantDirGlobSort - Brooke Kuhlmann
+* Added Lint/SymbolConversion - Brooke Kuhlmann
+* Added Lint/TripleQuotes - Brooke Kuhlmann
+* Added RSpec/DescribeClass ignored metadata - Brooke Kuhlmann
+* Added Style/EndlessMethod - Brooke Kuhlmann
+* Added Style/IfWithBooleanLiteralBranches - Brooke Kuhlmann
+* Updated RSpec/DescribeClass to include request types - Brooke Kuhlmann
+* Updated to Circle CI 2.1.0 - Brooke Kuhlmann
+
 == 6.0.0 (2020-12-30)
 
 * Fixed Bundler/OrderedGems issue - Brooke Kuhlmann

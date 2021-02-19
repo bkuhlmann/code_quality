@@ -5,6 +5,8 @@ AllCops:
     - "node_modules/**/*"
     - "tmp/**/*"
     - "vendor/**/*"
+Gemspec/DateAssignment:
+  Enabled: true
 Layout/BeginEndAlignment:
   Enabled: true
   EnforcedStyleAlignWith: begin

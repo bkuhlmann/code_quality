@@ -1,5 +1,11 @@
 = Changes
 
+== 6.2.0 (2021-02-18)
+
+* Added Gemspec/DateAssignment - Brooke Kuhlmann
+* Added Style/HashConversion - Brooke Kuhlmann
+* Updated to Docker Alpine Ruby image - Brooke Kuhlmann
+
 == 6.1.0 (2021-02-02)
 
 * Fixed Rubocop Rails configuration - Brooke Kuhlmann

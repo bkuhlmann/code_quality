@@ -22,6 +22,8 @@ Performance/RedundantEqualityComparisonBlock:
   Enabled: true
 Performance/RedundantSortBlock:
   Enabled: true
+Performance/RedundantSplitRegexpArgument:
+  Enabled: true
 Performance/RedundantStringChars:
   Enabled: true
 Performance/ReverseFirst:

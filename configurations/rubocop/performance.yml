@@ -18,6 +18,8 @@ Performance/MethodObjectAsBlock:
   Enabled: true
 Performance/OpenStruct:
   Enabled: true
+Performance/RedundantEqualityComparisonBlock:
+  Enabled: true
 Performance/RedundantSortBlock:
   Enabled: true
 Performance/RedundantStringChars:

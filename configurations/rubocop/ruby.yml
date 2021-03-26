@@ -314,6 +314,8 @@ Style/SoleNestedConditional:
   Enabled: true
 Style/StaticClass:
   Enabled: true
+Style/StringChars:
+  Enabled: true
 Style/StringConcatenation:
   Enabled: false
 Style/StringLiterals:

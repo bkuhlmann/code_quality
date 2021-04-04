@@ -46,7 +46,7 @@ https://raw.githubusercontent.com/bkuhlmann/code_quality/6.2.0/configurations/<c
 Master Version (unstable)
 
 ....
-https://raw.githubusercontent.com/bkuhlmann/code_quality/master/configurations/<choose file>
+https://raw.githubusercontent.com/bkuhlmann/code_quality/main/configurations/<choose file>
 ....
 
 Here is a more concrete example using Rubocop. In your local `.rubocop.yml`, replace the contents

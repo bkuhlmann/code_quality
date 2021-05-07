@@ -1,1 +1,4 @@
 require: rubocop-rails
+
+Rails/ActiveRecordCallbacksOrder:
+  Enabled: true

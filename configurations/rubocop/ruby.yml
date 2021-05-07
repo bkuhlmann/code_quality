@@ -64,6 +64,8 @@ Layout/MultilineMethodArgumentLineBreaks:
 Layout/RedundantLineBreak:
   Enabled: true
   InspectBlocks: true
+Layout/SingleLineBlockChain:
+  Enabled: true
 Layout/SpaceAroundMethodCallOperator:
   Enabled: true
 Layout/SpaceBeforeBrackets:

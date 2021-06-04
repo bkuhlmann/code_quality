@@ -1,5 +1,22 @@
 = Changes
 
+== 7.0.0 (2021-06-04)
+
+* Added Layout/RedundantLineBreak - Brooke Kuhlmann
+* Added Layout/SingleLineBlockChain - Brooke Kuhlmann
+* Added Lint/EmptyInPattern - Brooke Kuhlmann
+* Added Performance/MapCompact - Brooke Kuhlmann
+* Added Performance/RedundantEqualityComparisonBlock - Brooke Kuhlmann
+* Added Performance/RedundantSplitRegexpArgument - Brooke Kuhlmann
+* Added Rails/ActiveRecordCallbacksOrder - Brooke Kuhlmann
+* Added Style/InPatternThen - Brooke Kuhlmann
+* Added Style/MultilineInPatternThen - Brooke Kuhlmann
+* Added Style/QuotedSymbols - Brooke Kuhlmann
+* Added Style/StringChars - Brooke Kuhlmann
+* Updated Code Quality URLs - Brooke Kuhlmann
+* Updated to Ruby 3.0.1 - Brooke Kuhlmann
+* Removed Performance/ArraySemiInfiniteRangeSlice - Brooke Kuhlmann
+
 == 6.2.0 (2021-02-18)
 
 * Added Gemspec/DateAssignment - Brooke Kuhlmann

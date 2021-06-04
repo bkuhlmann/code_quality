@@ -105,6 +105,9 @@ Lint/EmptyConditionalBody:
 Lint/EmptyFile:
   Enabled: true
   AllowComments: false
+Lint/EmptyInPattern:
+  Enabled: true
+  AllowComments: false
 Lint/EmptyWhen:
   AllowComments: false
 Lint/FloatComparison:

@@ -254,6 +254,8 @@ Style/IfWithBooleanLiteralBranches:
   Enabled: true
 Style/ImplicitRuntimeError:
   Enabled: true
+Style/InPatternThen:
+  Enabled: true
 Style/IpAddresses:
   Enabled: true
 Style/KeywordParametersOrder:

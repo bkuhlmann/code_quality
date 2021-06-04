@@ -293,6 +293,8 @@ Style/PercentLiteralDelimiters:
     "%i": "[]"
     "%I": "[]"
     "%r": "()"
+Style/QuotedSymbols:
+  Enabled: true
 Style/RedundantArgument:
   Enabled: true
 Style/RedundantAssignment:

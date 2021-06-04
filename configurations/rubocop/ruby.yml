@@ -272,6 +272,8 @@ Style/MethodDefParentheses:
   EnforcedStyle: require_no_parentheses
 Style/MissingElse:
   Enabled: true
+Style/MultilineInPatternThen:
+  Enabled: true
 Style/MultilineMethodSignature:
   Enabled: true
 Style/NegatedIfElseCondition:

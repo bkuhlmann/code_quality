@@ -19,5 +19,7 @@ RSpec/IdenticalEqualityAssertion:
   Enabled: true
 RSpec/NamedSubject:
   IgnoreSharedExamples: false
+RSpec/Rails/AvoidSetupHook:
+  Enabled: true
 RSpec/StubbedMock:
   Enabled: true

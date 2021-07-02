@@ -50,6 +50,9 @@ Layout/FirstMethodArgumentLineBreak:
   Enabled: true
 Layout/FirstMethodParameterLineBreak:
   Enabled: true
+Layout/LineEndStringConcatenationIndentation:
+  Enabled: true
+  IndentationWidth: 0
 Layout/LineLength:
   Max: 100
 Layout/MultilineArrayLineBreaks:

@@ -175,6 +175,8 @@ Metrics/BlockLength:
     - "spec/**/*"
 Metrics/ParameterLists:
   Max: 3
+Naming/InclusiveLanguage:
+  Enabled: true
 Naming/MethodName:
   IgnoredPatterns:
     - Array
